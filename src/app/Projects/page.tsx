@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Projects from "@/Components/Projects";
 
 
